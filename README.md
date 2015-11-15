@@ -1,2 +1,3 @@
 # MyRubyApp
 MyTests
+test
